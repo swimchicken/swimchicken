@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swimchicken&show_icons=true&locale=en&layout=compact" alt="swimchicken" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![swimchicken GitHub stats](https://github-readme-stats.vercel.app/api?username=swimchicken&theme=radical&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swimchicken&show_icons=true&locale=en" alt="swimchicken" /></p>
 
