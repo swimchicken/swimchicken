@@ -44,6 +44,5 @@
 
 ![swimchicken GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=swimchicken&theme=radical&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swimchicken&show_icons=true&locale=en" alt="swimchicken" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swimchicken&" alt="swimchicken" /></p>
